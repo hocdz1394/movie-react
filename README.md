@@ -1,4 +1,4 @@
-# React Movie : <a>https://movie-react-phi.vercel.app/</a> 🎥  <br/>
+# React Movie 🎥  <br/>
 
 Tailwind CSS 🎨 <br/>
 React Hook và Class Component 🛠️ <br/>
