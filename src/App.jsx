@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import Header from "./components/header";
 import Banner from "./components/banner";
 import ListMove from "./components/listmovie";
-import MovieSearch from "./components/movieSearch";
+import MovieSearch from "./components/MovieSearch";
 import { MovieProvider } from "./context/MovieProvider";
 
 
